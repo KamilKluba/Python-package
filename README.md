@@ -1,1 +1,1 @@
-Test python package
+This is a test package.
